@@ -1,0 +1,25 @@
+_repo: The-Disembodied-Man_66283
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Maddock, Larry
+    gutenberg_agent_id: '53728'
+    url: http://www.gutenberg.org/2009/agents/53728
+description: ''
+gutenberg_issued: '2021-09-13'
+identifiers:
+  gutenberg: '66283'
+language: en
+pgterms:marc905: 20210306102841maddock
+pgterms:marc906: '1954'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: United States :Greenleaf Publishing Company,1954.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Disembodied Man
+url: http://www.gutenberg.org/ebooks/66283
